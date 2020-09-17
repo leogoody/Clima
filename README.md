@@ -1,8 +1,18 @@
 #  Clima
 
-Beautiful, dark-mode enabled weather app.
+A beautiful, dark-mode enabled weather app. User is able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
 
 This is a project from The App Brewery's Complete App Development Bootcamp.
+
+### Technologies Used
+
+- Storyboard UI
+- MVC Design Pattern
+- UIKit
+- Public API
+- URLSession
+- JSON Parsing
+- CoreLocation
 
 ### Screenshots
 
